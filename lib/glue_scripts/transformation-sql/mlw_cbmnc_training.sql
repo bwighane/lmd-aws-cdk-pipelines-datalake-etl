@@ -15,8 +15,7 @@ SELECT
     reporting_health_facility_name,
     reporting_catchment_area_name,
     total_score	pre_assessment_score,
-    test_type,
-    status,				
+    test_type,			
     day,
     month,
     year
